@@ -6,7 +6,7 @@ This project is my **graduation project** from the **National Telecommunication 
 
 A **Retrieval-Augmented Generation (RAG)** powered **chatbot** allows users to interact with and query the stored reports, simplifying access to historical anomaly data.
 
-![Jetson Nano](../Anomaly-Detection-on-Jetson-Nano-with-Chatbot/Jetson%20Nano/jetson.jpg?raw=true)
+![Jetson Nano](https://github.com/Joseph-Essa/Anomaly-Detection-on-Jetson-Nano-with-Chatbot/raw/main/Jetson%20Nano/jetson.jpg?raw=true)
 
 ### Key Features:
 - **Real-time Anomaly Detection**: MobileNet and BiLSTM models classify anomalies in video streams.
