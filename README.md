@@ -87,14 +87,6 @@ To query the generated reports, use the **Anomaly_Chatbot_with_streamlit.ipynb**
 
 Once opened, interact with the chatbot to query the stored reports from your Google Drive database.
 
-## Acknowledgments
-- **MobileNet** and **BiLSTM** models for anomaly detection.
-- **UCF Anomaly Detection Dataset** for model training.
-- **NVIDIA Jetson Nano** for edge deployment.
-- **Google Drive API** for cloud storage integration.
-- **LLM Gemini** for generating reports.
-- **Retrieval-Augmented Generation (RAG)** for the chatbot functionality.
-
 ## Conclusion
 
 This project provides an end-to-end solution for real-time anomaly detection on the **Jetson Nano** platform. Combining deep learning, cloud integration, and natural language processing, it offers a robust system for monitoring and responding to anomalous events in video streams.
